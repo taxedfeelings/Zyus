@@ -1,8 +1,8 @@
-# Exploiting Toolbox for Penetration Testers
+# Zyus Toolbox for Penetration Testers
 
 ## Overview
 
-The **Exploiting Toolbox** is a collection of tools and scripts designed specifically for penetration testers. This toolbox provides various functionalities that assist in the identification and exploitation of vulnerabilities in systems and applications. Please note that this toolbox is intended strictly for ethical use by certified professionals in the field of penetration testing.
+The **Zyus Toolbox** is a collection of tools and scripts designed specifically for penetration testers. This toolbox provides various functionalities that assist in the identification and exploitation of vulnerabilities in systems and applications. Please note that this toolbox is intended strictly for ethical use by certified professionals in the field of penetration testing.
 
 ## Disclaimer
 
