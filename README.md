@@ -11,14 +11,14 @@ The **Zyus Toolbox** is a collection of tools and scripts designed specifically 
 ## Features
 
 - **Tool 1** - tries to run cmd.exe
-*Add more tools and descriptions as needed.*
+- **Tool 2** - Runs CMD.exe in a visual basic andor python shell
+- **Tool 3** - Runs cmd in a "Virtualised" Command Prompt. 
 
 ## Installation
 
 To install the Exploiting Toolbox, follow these steps:
+**OR***
 1. Install the package on the release page
 2. Run main.py and it come up with a GUI
 3. Click on one of the Exploits and it should run.
 
-## IMPORTANT
-**EVERYTHING IS NOT MADE YET. EXPLOIT 1 IS ONLY WORKING AND THE REST WILL BE MADE SOON!**
