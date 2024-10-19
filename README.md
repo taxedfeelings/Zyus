@@ -20,7 +20,11 @@ To install the Exploiting Toolbox, follow these steps:
 1. Go to our releases
 2. Download the exe file
 3.  and run!
-**OR***
+
+
+**OR**
+
+
 1. Install the package on the release page
 2. Run main.py and it come up with a GUI
 3. Click on one of the Exploits and it should run.
