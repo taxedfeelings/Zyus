@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Zyus Toolbox** is a collection of tools and scripts designed specifically for penetration testers. This toolbox provides various functionalities that assist in the identification and exploitation of vulnerabilities in systems and applications. Please note that this toolbox is intended strictly for ethical use by certified professionals in the field of penetration testing.
+The **Zyus Toolbox** is a collection of tools and scripts designed specifically for penetration testers. This toolbox provides various functionalities that assist in the identification and exploitation of vulnerabilities in Group Policies that ban the use of the Command Prompt.
 
 ## Disclaimer
 
@@ -17,6 +17,9 @@ The **Zyus Toolbox** is a collection of tools and scripts designed specifically 
 ## Installation
 
 To install the Exploiting Toolbox, follow these steps:
+1. Go to our releases
+2. Download the exe file
+3.  and run!
 **OR***
 1. Install the package on the release page
 2. Run main.py and it come up with a GUI
